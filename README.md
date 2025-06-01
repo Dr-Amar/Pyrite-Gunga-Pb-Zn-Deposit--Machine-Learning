@@ -13,7 +13,7 @@ This repository supports the research article:
 
 This study applies machine learning to in-situ **pyrite trace element** and **S–Pb isotope** data to classify the ore genesis of the Gunga Pb–Zn deposit, located in the Lasbela-Khuzdar Belt, Pakistan. 
 
-Using four ML models (Random Forest, Gradient Boosting, Support Vector Machine, and Multilayer Perceptron), we performed **leave-one-group-out (LOGO) cross-validation** on a global dataset (n ≈ 3800) and achieved robust classification performance.
+Using four ML models (Random Forest, Gradient Boosting, Support Vector Machine, and Multilayer Perceptron), we performed **leave-one-group-out (LOGO) cross-validation** on a global dataset (n ≈ 5400) and achieved robust classification performance.
 
 ---
 
