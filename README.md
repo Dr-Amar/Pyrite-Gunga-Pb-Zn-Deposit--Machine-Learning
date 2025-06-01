@@ -5,7 +5,7 @@ This repository supports the research article:
 
 **"Machine learning-driven classification of Pb–Zn ore deposits using pyrite trace elements and isotopic signatures: A case study of the Gunga deposit"**  
 📝 *Published in Journal of Geochemical Exploration (2025)*  
-🔗 [DOI: 10.1016/j.gexplo.2025.107771](https://doi.org/10.1016/j.gexplo.2025.107771)
+🔗 [DOI: 10.1016/j.gexplo.2025.107693](https://doi.org/10.1016/j.gexplo.2025.107693)
 
 ---
 
