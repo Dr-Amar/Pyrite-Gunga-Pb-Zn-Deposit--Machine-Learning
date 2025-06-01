@@ -20,9 +20,9 @@ Using four ML models (Random Forest, Gradient Boosting, Support Vector Machine, 
 ## 🧠 Machine Learning Models & Results
 
 - ✅ **Models**: RF, GB, SVM, MLP  
-- 🎯 **Target**: 5 deposit types (CD, SEDEX, MVT, Skarn, VMS)  
+- 🎯 **Target**: Pyrite: 4 metallogeni origin(Sedimentary, Magamatic, Metamorphic, Clastic Dominant)  
 - 📈 **Best Accuracy**: > 90%   
-- 🧪 **Validation**: LOGO (Leave-One-Group-Out) by deposit  
+- 🧪 **Validation**: LOGO (Leave-One-Group-Out) by deposit  > 90% 
 - 🔍 **Important Features**: Co, Ni, Sb, As, Tl, Se, Ge  
 
 ---
@@ -33,9 +33,9 @@ Pyrite-Gunga-Pb-Zn-Deposit--Machine-Learning/
 │
 ├── paper/ → Published article (PDF)
 ├── data/ → Pyrite trace element and isotope data
-├── figures/ → Confusion matrix, ternary, boxplots, feature importances
+├── figures/ → histograms, boxplots, feature importances
 ├── notebooks/ → ML training and LOGO evaluation scripts
-├── models/ → Trained model files (.pkl or .h5)
+├── results/ → Test and Validation Classification reports
 ├── LICENSE → License for use (MIT / CC BY 4.0)
 └── README.md → This file
 
