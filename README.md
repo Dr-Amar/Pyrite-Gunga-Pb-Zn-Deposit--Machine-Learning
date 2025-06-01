@@ -21,7 +21,7 @@ Using four ML models (Random Forest, Gradient Boosting, Support Vector Machine, 
 
 - ✅ **Models**: RF, GB, SVM, MLP  
 - 🎯 **Target**: 5 deposit types (CD, SEDEX, MVT, Skarn, VMS)  
-- 📈 **Best Accuracy**: 94.73% (MLP)  
+- 📈 **Best Accuracy**: > 90%   
 - 🧪 **Validation**: LOGO (Leave-One-Group-Out) by deposit  
 - 🔍 **Important Features**: Co, Ni, Sb, As, Tl, Se, Ge  
 
